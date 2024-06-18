@@ -14,3 +14,10 @@ This repository contains an implementation of a Naive Bayes Classifier using fir
 3. Train the classifier using labeled training data: `classifier.fit(X_train, y_train)`
 4. Predict the class labels for new instances: `predictions = classifier.predict(X_test)`
 5. Evaluate the accuracy of the classifier: `accuracy = classifier.evaluate(X_test, y_test)`
+
+## Requirements
+
+To run this code, you need the following dependencies:
+
+- Python 3.x
+- Numpy
